@@ -1,0 +1,56 @@
+###################################
+# Unity Generated Folders
+###################################
+
+Stranded/[Ll]ibrary/
+Stranded/[Tt]emp/
+Stranded/[Oo]bj/
+Stranded/[Bb]uild/
+Stranded/[Bb]uilds/
+Stranded/[Ll]ogs/
+Stranded/[Mm]emoryCaptures/
+Stranded/UserSettings/
+
+###################################
+# Unity Meta Files (Keep these!)
+###################################
+# DO NOT ignore .meta files
+
+###################################
+# Visual Studio / Rider
+###################################
+
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+###################################
+# OS Files
+###################################
+
+.DS_Store
+Thumbs.db
+
+###################################
+# Crash Reports
+###################################
+
+sysinfo.txt
+
+###################################
+# Addressables / Asset Bundles
+###################################
+
+Stranded/ServerData/
+
+
+Stranded/Assets/Synty/
