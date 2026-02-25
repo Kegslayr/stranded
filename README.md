@@ -2,7 +2,7 @@
 
 ## Overview
 
-A survival game intended for the player to search the island for treasure and find the boat to escape.
+Stranded is a survival-based adventure game where the player must navigate a deserted island to uncover hidden treasure. To win, the player must manage resources carefully, survive the environment, retrieve the gold, and locate the escape boat.
 
 ## Gameplay video
 
